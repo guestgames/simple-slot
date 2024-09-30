@@ -5,7 +5,8 @@
 Akashic-Engine
 
 # 使用素材
-いらすとや　効果音ラボ
+いらすとや<br>
+効果音ラボ
 
 # ライセンス
 MIT LICENSE
