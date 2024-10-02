@@ -13,10 +13,10 @@ STARTボタンを押すと初期状態に戻ります。
 ## 使用ゲームエンジン
 akashic-engine<br>
 Copyright (c) 2017 DWANGO Co., Ltd.<br>
-https://github.com/akashic-games/akashic-cli/blob/main/LICENSE<br>
+https://github.com/akashic-games/akashic-engine/blob/main/LICENSE<br>
 akashic-cli<br>
 Copyright (c) 2019 DWANGO Co., Ltd.<br>
-https://github.com/akashic-games/akashic-engine/blob/main/LICENSE
+https://github.com/akashic-games/akashic-cli/blob/main/LICENSE
 
 ## 使用素材
 いらすとや<br>
