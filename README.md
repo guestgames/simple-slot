@@ -21,6 +21,3 @@ https://github.com/akashic-games/akashic-engine/blob/main/LICENSE
 ## 使用素材
 いらすとや<br>
 効果音ラボ
-
-## ライセンス
-MIT LICENSE
