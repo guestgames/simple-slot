@@ -11,7 +11,9 @@
 STARTボタンを押すと初期状態に戻ります。
 
 ## 使用ゲームエンジン
-Akashic-Engine
+Akashic-Engine<br>
+https://github.com/akashic-games/akashic-cli/blob/main/LICENSE<br>
+https://github.com/akashic-games/akashic-engine/blob/main/LICENSE
 
 ## 使用素材
 いらすとや<br>
